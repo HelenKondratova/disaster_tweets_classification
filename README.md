@@ -14,6 +14,7 @@
 4.  Fine-tuned BERT
 
 **Результат:**
-TF-IDF + LogReg: Score: 0.78179
-BERT: Score: 0.83941
 
+TF-IDF + LogReg: Score: ```0.78179```
+
+BERT: Score: ```0.83941```
